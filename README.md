@@ -12,7 +12,7 @@ Análise e Desenvolvimento de Sistemas - PIM
   <a href="#memo-O-Projeto">O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Nota">Nota</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Objetivos-alcaçados">Objetivos alcaçados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Desenvolvedores">Desenvolvedores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
@@ -73,7 +73,7 @@ elaboração de diagramas de fluxo de software;
 - Fomentar o hábito de trabalho em equipe e execução de projetos
 envolvendo múltiplas disciplinas.
 
-## 🚀 Tecnologia
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
