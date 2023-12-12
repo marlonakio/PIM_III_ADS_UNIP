@@ -1,7 +1,7 @@
 <h1 align="center"> SOFTWARE DE GERENCIAMENTO DE RECURSOS HUMANOS
  </h1>
 <p align="center">
-  <img src="https://github.com/marlonakio/PIM_II_ADS_UNIP/blob/main/.github/logo-UNIP.png?raw=true" alt="Logo UNIP" width="60%"/>
+  <img src="https://github.com/marlonakio/PIM_III_ADS_UNIP/blob/main/.github/logo-UNIP.png?raw=true" alt="Logo UNIP" width="60%"/>
 </p>
 <h2 align="center">
 Análise e Desenvolvimento de Sistemas - PIM
@@ -34,7 +34,7 @@ digitalização do cálculo da folha de pagamento e geração digital de todos o
 documentos envolvidos neste processo do setor de RH e departamento
 pessoal afim de automatizar totalmente a geração da folha de pagamento. A
 LGPD (Lei geral Proteção de Dados) deve ser aplicada para todas as pessoas
-físicas. Este Trabalho foi implementado no próximo semestre PIM IV ([Clique aqui para acessar](https://github.com/marlonakio/PIM_IV_ADS_UNIP))
+físicas. Este Trabalho foi implementado no próximo semestre PIM IV (<a href="https://github.com/marlonakio/PIM_IV_ADS_UNIP" target="_blank">Clique aqui para acessar</a>).
 
 
 Matérias abordadas:
@@ -48,7 +48,7 @@ Matérias abordadas:
 
 <br/>
 <p align="center">
-  <img src="https://github.com/marlonakio/PIM_II_ADS_UNIP/blob/main/.github/PIM-UNIP.pptx.png?raw=true" alt="UNIP - PROJETO INTEGRADO MULTIDISCIPLINAR" width="50%"/>
+  <img src="https://github.com/marlonakio/PIM_III_ADS_UNIP/blob/main/.github/PIM-UNIP.pptx.png?raw=true" alt="UNIP - PROJETO INTEGRADO MULTIDISCIPLINAR" width="50%"/>
 <br>
 
 ## :memo: O Projeto
@@ -60,7 +60,7 @@ Optamos por desenvolver um projeto de planejamento de infraestrutura e codifica�
 ## 🟢 Nota
 A nota alcançada ao concluirmos e apresentarmos este projeto foi `10`.
 <p align="center">
-  <img src="https://github.com/marlonakio/PIM_II_ADS_UNIP/blob/main/.github/nota.png?raw=true" alt="NOTA 10" width="100%"/>
+  <img src="https://github.com/marlonakio/PIM_III_ADS_UNIP/blob/main/.github/nota.png?raw=true" alt="NOTA 10" width="100%"/>
 
 ## 🎯 Objetivos alcaçados
 Ao realizar este projeto adquirimos e aprimoramos as seguintes skills:
